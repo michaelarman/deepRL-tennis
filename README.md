@@ -23,7 +23,7 @@ The task is episodic, and in order to solve the environment, your agents must ge
 
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
 
-### Getting Started
+### Instructions
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
@@ -32,9 +32,6 @@ The environment is considered solved, when the average (over 100 episodes) of th
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
     
 2. Place the file in the path of the project folder and unzip (or decompress) the file. 
-
-### Instructions
-
-Install the requirements by running `pip install -r requirements.txt`
-Solve the environment by training multiple agents to play tennis
+3. Install the requirements by running `pip install -r requirements.txt`
+4. Solve the environment by training multiple agents to play tennis
 
