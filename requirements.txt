@@ -1,0 +1,4 @@
+unityagents
+numpy
+torch
+matplotlib
